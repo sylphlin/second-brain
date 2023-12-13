@@ -1,4 +1,4 @@
-# second-brain
+# Second Brain Demo
 
 ### Objective
 This project is a demo project that leverage Google Cloud Vertex AI and Langchain to provide response based on the linked Google Drive Folder.
@@ -11,7 +11,7 @@ I extended the requirements to a general purpose one and created the Second Brai
 The Second Brain not only can answer the question based on the specific document but also can answer the question which needs to be combined from multiple documents.
 
 ### System Architecture
-![Architecture Diagram](https://github.com/sylphlin/second-brain/blob/main/architecture.jpg?raw=true)
+![Architecture Diagram](https://github.com/sylphlin/second-brain/blob/main/images/architecture.png?raw=true)
 
 ### Recognition
 This works is inspired by How to build a ChatGPT + Google Drive app with [LangChain and Python](https://www.haihai.ai/gpt-gdrive/?ref=emergentmind)
